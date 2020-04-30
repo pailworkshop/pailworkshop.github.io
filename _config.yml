@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: SMILE community
+title: SMILE community website
 
 # Short description of your site
 description: A website for the Single Model Initial-condition Large Ensemble community
@@ -12,9 +12,10 @@ description: A website for the Single Model Initial-condition Large Ensemble com
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "index.md"
+  About: "index.html"
   Webinars: "webinars"
   Conferences / Workshops: "conferences_workshops"
+  Mailing list: "mailinglist"
   Ressources:
     - MMLEA: "http://www.cesm.ucar.edu/projects/community-projects/MMLEA/"
 
