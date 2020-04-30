@@ -13,7 +13,7 @@ description: A website for the Single Model Initial-condition Large Ensemble com
 
 navbar-links:
   About: "index.md"
-  Webinars: "webinars.md"
+  Webinars: "webinars"
   Events:
     - Conferences: "conferences_workshops"
 
