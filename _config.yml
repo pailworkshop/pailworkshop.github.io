@@ -13,7 +13,7 @@ author: SMILE community
 
 navbar-links:
   About: 
-    - SMILE: "index.html"
+    - SMILE: "index"
     - Who we are: "who_we_are"
   Webinars: "webinars"
   Conferences / Workshops: "conferences_workshops"
