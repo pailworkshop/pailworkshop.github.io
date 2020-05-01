@@ -3,7 +3,12 @@ layout: page
 title: Conferences / Workshops
 ---
 
-Is anything missing in this list? <a href="https://large-ensemble.github.io/report_session/">Let us know!</a>
+Is anything missing in this list? Let us know!
+
+<div style="text-align:center;">
+<a class="btn btn-success" href="https://large-ensemble.github.io/report_session/">Report a conference / workshop</a>
+</div>
+
 
 # EGU 2020
 
