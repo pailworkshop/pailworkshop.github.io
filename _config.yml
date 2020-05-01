@@ -12,7 +12,8 @@ author: SMILE community
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "index.html"
+  About: 
+    - SMILE: "index.html"
     - Who we are: "who_we_are"
   Webinars: "webinars"
   Conferences / Workshops: "conferences_workshops"
