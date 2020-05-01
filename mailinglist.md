@@ -8,3 +8,5 @@ If you want to stay up to date with relevant large-ensemble news like upcoming w
 [Sign up](https://listserv.gwdg.de/mailman/listinfo/smile)
 
 
+<a class="btn btn-success" href="https://listserv.gwdg.de/mailman/listinfo/smile">Sign up</a>
+
