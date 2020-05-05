@@ -9,7 +9,7 @@ In autumn 2019 we organised a large ensemble workshop at LMU in Munich, Germany,
 
 - **Andrea Dittus**, University of Reading
 - **Flavio Lehner**, ETH Zurich/NCAR
-- **Nicola Maher**, Max Planck Institute for Meteorology
+- **Nicola Maher**, Max Planck Institute for Meteorology , [twitter](https://twitter.com/Nicola__Maher), [website](https://nicolamaher.weebly.com/)
 - **Raul Wood**, LMU Munich
 - **Sebastian Milinski**, Max Planck Institute for Meteorology, [twitter](https://twitter.com/SebMilinski), [website](https://www.mpimet.mpg.de/en/staff/sebastian-milinski/)
 
