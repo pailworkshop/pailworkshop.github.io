@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Sign up for the next webinar
 permalink: /webinars/registration/
 ---
 
