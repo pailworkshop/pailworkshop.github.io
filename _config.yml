@@ -15,7 +15,9 @@ navbar-links:
   About: 
     - SMILE: "index"
     - Who we are: "who_we_are"
-  Webinars: "webinars"
+  Webinars: 
+    - Next webinars: "webinars"
+    - Suggest a speaker: "webinar_suggest_speaker"
   Conferences / Workshops: "conferences_workshops"
   Mailing list: "mailinglist"
   Ressources:
