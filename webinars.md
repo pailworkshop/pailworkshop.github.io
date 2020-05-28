@@ -10,6 +10,8 @@ In this series of virtual seminars, invited speakers will give a ~30 minute pres
 ## June 8th 2020: Dr. Clara Deser (NCAR)
 time: 9 am (MDT), 3 pm (GMT), 5 pm (CEST)
 
+This webinar will also be recorded and made available on this website.
+
 <div style="text-align:left;">
 <a class="btn btn-success" href="https://large-ensemble.github.io/webinars/registration">Register here</a>
 </div>
