@@ -16,7 +16,7 @@ Last-minute registration (no guarantee that we can send the zoom link, but we wi
 
 This webinar will also be recorded and made available on this website.
 
-
+---
 
 ## July 6th 2020: Dr. John Fyfe (CCCma)
 time: 9 am (MDT), 3 pm (GMT), 5 pm (CEST)
