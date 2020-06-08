@@ -12,7 +12,7 @@ time: 9 am (MDT), 3 pm (GMT), 5 pm (CEST)
 
 **Isolating the Evolving Contributions of Anthropogenic Aerosols and Greenhouse Gases: A New CESM1 Large Ensemble Community Resource**
 
-Last-minute registration (no guarantee that we can send the zoom link, but we will try): <a class="btn btn-success" href="https://large-ensemble.github.io/webinars/registration">Register here</a>
+Last-minute registration: <a class="btn btn-success" href="https://large-ensemble.github.io/webinars/registration">Register here</a> _(no guarantee that we can send the zoom link, but we will try)_
 
 This webinar will also be recorded and made available on this website.
 
