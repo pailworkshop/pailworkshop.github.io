@@ -17,7 +17,7 @@ navbar-links:
     - Who we are: "who_we_are"
   Webinars: 
     - Next webinars: "webinars"
-    - Archive: "webinars_archive"
+    - Archive: "/webinars/archive/"
     - Suggest a speaker: "webinar_suggest_speaker"
   Conferences / Workshops: "conferences_workshops"
   Mailing list: "mailinglist"
