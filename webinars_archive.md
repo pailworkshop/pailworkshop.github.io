@@ -2,6 +2,7 @@
 layout: page
 title: Webinar archive
 subtitle: Webinar series on large ensembles
+permalink: /webinars/archive/
 ---
 
 This page contains a list of all webinar presentations and, if available, a recording of the webinar.
