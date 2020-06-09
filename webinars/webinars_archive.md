@@ -12,7 +12,11 @@ This page contains a list of all webinar presentations and, if available, a reco
 
 Isolating the Evolving Contributions of Anthropogenic Aerosols and Greenhouse Gases: A New CESM1 Large Ensemble Community Resource
 
-The recording will be made available on this page soon.
+<video width="600" controls>
+  <source src="http://seb21.gienah.uberspace.de/SMILE_webinar1_Deser.mp4" type="video/mp4">
+  Your browser does not support HTML video.
+</video>
+
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <!-- Analytics only implemented for archive page to count views of recordings. -->
