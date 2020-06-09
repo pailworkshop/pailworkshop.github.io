@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Test
-permalink: /test123/
 ---
 
 This page is not linked in the menu. Only for testing.
