@@ -17,6 +17,9 @@ Isolating the Evolving Contributions of Anthropogenic Aerosols and Greenhouse Ga
   Your browser does not support HTML video.
 </video>
 
+Additional resources:
+- [CESM1 single-forcing webpage, including a description of the simulations and directions for accessing the output](
+http://www.cesm.ucar.edu/working_groups/CVC/simulations/cesm1-single_forcing_le.html)
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <!-- Analytics only implemented for archive page to count views of recordings. -->
