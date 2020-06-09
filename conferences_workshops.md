@@ -10,7 +10,7 @@ Is anything missing in this list? Let us know!
 </div>
 
 ---
-## Previous sessions
+## Upcoming sessions
 
 _currently no sessions listed_
 
