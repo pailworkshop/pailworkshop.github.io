@@ -16,6 +16,7 @@ Isolating the Evolving Contributions of Anthropogenic Aerosols and Greenhouse Ga
   <source src="http://seb21.gienah.uberspace.de/SMILE_webinar1_Deser.mp4" type="video/mp4">
   Your browser does not support HTML video.
 </video>
+presentation starts at 2:50; discussion starts at 41:00
 
 Additional resources:
 - [CESM1 single-forcing webpage, including a description of the simulations and directions for accessing the output](
