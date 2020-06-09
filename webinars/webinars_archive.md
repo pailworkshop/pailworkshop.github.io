@@ -5,7 +5,7 @@ subtitle: Webinar series on large ensembles
 permalink: /webinars/archive/
 ---
 
-This page contains a list of all webinar presentations and, if available, a recording of the webinar.
+This page contains a list of all previous webinar presentations and, if available, a recording of the webinar.
 
 
 ## June 8th 2020: [Dr. Clara Deser](http://www.cgd.ucar.edu/staff/cdeser/) (NCAR)
