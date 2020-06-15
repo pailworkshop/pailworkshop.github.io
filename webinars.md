@@ -12,7 +12,7 @@ time: 9 am (MDT), 3 pm (GMT), 5 pm (CEST)
 
 **Quantifying the Influence of COVID-19 Emission Reductions on Climate, and Other Applications of the New CanESM5 Super Large Ensemble**
 
-<div style="text-align:left;">
+<div style="text-align:center;">
 <a class="btn btn-success" href="https://large-ensemble.github.io/webinars/registration2">Register here</a>
 </div>
 
