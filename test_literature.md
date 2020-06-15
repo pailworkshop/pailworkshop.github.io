@@ -21,7 +21,7 @@ time: 9 am (MDT), 3 pm (GMT), 5 pm (CEST)
 </div>
 
 
-![image](https://www.lakeheadu.ca/sites/default/files/uploads/111/Fyte.jpg =250x){: style="float: left"}
+![image](https://www.lakeheadu.ca/sites/default/files/uploads/111/Fyte.jpg){: style="float: left, width: 250px"}
 
 _Dr. John Fyfe. Senior Research Scientist at the Canadian Centre for Climate Modelling and Analysis, Victoria BC Canada_
 
