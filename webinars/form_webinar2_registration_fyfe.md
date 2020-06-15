@@ -3,7 +3,7 @@ layout: page
 permalink: /webinars/registration2/
 ---
 
-Please sign up here for the webinar with John Fyfe.
+Please sign up here for the [webinar with John Fyfe](https://large-ensemble.github.io/webinars/).
 
 _July 6th at 9 am (MDT), 3 pm (GMT), 5 pm (CEST)_
 
