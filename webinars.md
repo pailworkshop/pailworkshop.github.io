@@ -16,6 +16,8 @@ time: 9 am (MDT), 3 pm (GMT), 5 pm (CEST)
 <a class="btn btn-success" href="https://large-ensemble.github.io/webinars/registration2">Register here</a>
 </div>
 
+<div style="color:red">*If encounter problems when registering, try a different browser, [use this direct link to the form](https://forms.gle/cLtcUDKmQCZV8z8e7), or [contact Sebastian](mailto:sebastian.milinski@mpimet.mpg.de).*</span>
+
 
 ![image](https://www.lakeheadu.ca/sites/default/files/uploads/111/Fyte.jpg){: style="float: left; width: 200px; padding-right: 10px"}
 
