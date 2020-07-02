@@ -25,10 +25,9 @@ _Dr. John Fyfe. Senior Research Scientist at the Canadian Centre for Climate Mod
 
 We are pleased to announce Dr. John Fyfe as our next speaker in the webinar series. John is one of the scientists behind the Canadian large ensemble experiments. CCCma has not only produced a large ensemble with their CMIP5 model, but was the first modelling center that uploaded large ensemble simulations for a variety of CMIP6 experiments to ESGF.
 
-This webinar will be recorded.
-
-
 {:style="clear: left"}
+
+This webinar will be recorded.
 
 <br>
 
