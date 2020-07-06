@@ -50,6 +50,3 @@ We are pleased to announce Dr. Sarah Schlunegger as our next speaker in the webi
 
 <br>
 
----
-## Next confirmed speakers:
-  - August: Dr. Sarah Schlunegger (Princeton University)
