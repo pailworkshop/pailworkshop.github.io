@@ -9,7 +9,7 @@ drafts for upcoming webinars. This page is not linked on the public website. Cop
 
 
 ## Early August 2020: [Dr. Sarah Schlunegger](https://www.sarahschlunegger.com) (Princeton University)
-time and date: TBD
+time and date: TBD, early August 2020
 
 **Large Ensemble Intercomparison of Anthropogenic Changes in Marine Biogeochemistry**
 
