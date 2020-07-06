@@ -8,8 +8,8 @@ permalink: /webinars_preview/
 drafts for upcoming webinars. This page is not linked on the public website. Copy contents to webinars page when ready.
 
 
-## August ??th 2020: [Dr. Sarah Schlunegger](https://www.sarahschlunegger.com) (Princeton University)
-time: ? am (MDT), ? pm (GMT), ? pm (CEST)
+## Early August 2020: [Dr. Sarah Schlunegger](https://www.sarahschlunegger.com) (Princeton University)
+time and date: TBD
 
 **Large Ensemble Intercomparison of Anthropogenic Changes in Marine Biogeochemistry**
 
