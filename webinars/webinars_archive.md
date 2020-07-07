@@ -7,6 +7,17 @@ permalink: /webinars/archive/
 
 This page contains a list of all previous webinar presentations and, if available, a recording of the webinar.
 
+## July 6th 2020: Dr. John Fyfe (CCCma)
+
+Quantifying the Influence of COVID-19 Emission Reductions on Climate, and Other Applications of the New CanESM5 Super Large Ensemble
+
+<video width="600" controls>
+  <source src="http://seb21.gienah.uberspace.de/SMILE_webinar2_Fyfe.mp4" type="video/mp4">
+  Your browser does not support HTML video.
+</video> _(presentation starts at 1:38; discussion starts at 39:00)_
+
+
+---
 
 ## June 8th 2020: [Dr. Clara Deser](http://www.cgd.ucar.edu/staff/cdeser/) (NCAR)
 
