@@ -7,8 +7,8 @@ subtitle: Webinar series on large ensembles
 In this series of virtual seminars, invited speakers will give a ~30 minute presentation, followed by up to 30 minutes of discussion. The whole webinar session is limited to 60 minutes.
 
 
-## Early August 2020: [Dr. Sarah Schlunegger](https://www.sarahschlunegger.com) (Princeton University)
-time and date: TBD, early August 2020
+## 3rd August 2020: [Dr. Sarah Schlunegger](https://www.sarahschlunegger.com) (Princeton University)
+time and date: 3rd August 2020 17:00 CEST / 11:00 EST
 
 **Large Ensemble Intercomparison of Anthropogenic Changes in Marine Biogeochemistry**
 
