@@ -5,7 +5,7 @@ permalink: /webinars/registration3/
 
 Please sign up here for the [webinar with Sarah Schlunegger](https://large-ensemble.github.io/webinars/).
 
-_early August, day and time will be announced soon_
+_August 3rd, 17:00 CEST / 11:00 EST_
 
 We will send you the connection details a few days before the webinar.
 
