@@ -28,5 +28,5 @@ We are pleased to announce Dr. Sarah Schlunegger as our next speaker in the webi
 ---
 
 Next confirmed speakers:
-- September: Dr. Karin van der Wiel (KNMI)
-- October: Dr. Laura Suárez Gutiérrez (MPI-M)
+- September: [Dr. Karin van der Wiel](http://www.karinvanderwiel.nl) (KNMI)
+- October: [Dr. Laura Suárez Gutiérrez](https://www.mpimet.mpg.de/en/staff/laura-suarez-gutierrez/) (MPI-M)
