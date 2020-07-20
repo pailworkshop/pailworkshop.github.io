@@ -10,4 +10,4 @@ _August 3rd, 17:00 CEST / 11:00 EST_
 We will send you the connection details a few days before the webinar.
 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe7y7UuqB7juHBoDG5NQACdYScmPalE6PmqB6sUwRpJeB13fQ/viewform?embedded=true" width="640" height="1050" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe7y7UuqB7juHBoDG5NQACdYScmPalE6PmqB6sUwRpJeB13fQ/viewform?embedded=true" width="640" height="1250" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
