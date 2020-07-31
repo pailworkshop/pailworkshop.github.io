@@ -23,6 +23,8 @@ time: 9 am (MDT), 3 pm (GMT), 5 pm (CEST)
 
 We are pleased to announce Dr. Karin van der Wiel as our next speaker in the webinar series. Karin van der Wiel works as a climate scientist at the Royal Netherlands Meteorological Institute (KNMI). Her research focuses on understanding extreme weather and climate events, and how these influence society or ecosystems. Furthermore, she is involved in making the next generation of national climate scenarios for The Netherlands.
 
+This webinar will be recorded.
+
 
 <br>
 
