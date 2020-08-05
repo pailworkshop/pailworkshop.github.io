@@ -21,7 +21,7 @@ navbar-links:
     - Suggest a speaker: "webinar_suggest_speaker"
   Conferences / Workshops: "conferences_workshops"
   Mailing list: "mailinglist"
-  Ressources:
+  Resources:
     - MMLEA: "http://www.cesm.ucar.edu/projects/community-projects/MMLEA/"
   Contact us: "contact"
 
