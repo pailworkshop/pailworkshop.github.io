@@ -7,6 +7,18 @@ permalink: /webinars/archive/
 
 This page contains a list of all previous webinar presentations and, if available, a recording of the webinar.
 
+## August 3rd 2020: [Dr. Sarah Schlunegger](https://www.sarahschlunegger.com) (Princeton University)
+
+Large Ensemble Intercomparison of Anthropogenic Changes in Marine Biogeochemistry
+
+<video width="600" poster="intro_image_webinar3.png" controls>
+  <source src="http://seb21.gienah.uberspace.de/SMILE_webinar3_Schlunegger.mp4" type="video/mp4">
+  Your browser does not support HTML video.
+</video> _(presentation starts at 3:00; discussion starts at 46:00)_
+
+
+---
+
 ## July 6th 2020: Dr. John Fyfe (CCCma)
 
 Quantifying the Influence of COVID-19 Emission Reductions on Climate, and Other Applications of the New CanESM5 Super Large Ensemble
