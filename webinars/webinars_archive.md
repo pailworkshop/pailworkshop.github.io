@@ -16,6 +16,10 @@ Large Ensemble Intercomparison of Anthropogenic Changes in Marine Biogeochemistr
   Your browser does not support HTML video.
 </video> _(presentation starts at 3:00; discussion starts at 46:00)_
 
+Additional resources:
+- [The Princeton Large Ensemble Archive — Documentation and links to data](https://www.sarahschlunegger.com/large-ensemble-archive)
+- [Paper: Emergence of anthropogenic signals in the ocean carbon cycle](https://www.nature.com/articles/s41558-019-0553-2?proof=true19)
+- [Paper: Time of Emergence and Large Ensemble Intercomparison for Ocean Biogeochemical Trends](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GB006453)
 
 ---
 
