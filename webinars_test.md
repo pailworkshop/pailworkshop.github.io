@@ -8,10 +8,10 @@ permalink: /webinars_preview/
 drafts for upcoming webinars. This page is not linked on the public website. Copy contents to webinars page when ready.
 
 
-## September 7th 2020: [Dr. Laura Suarez-Gutierrez] (https://www.mpimet.mpg.de/en/staff/laura-suarez-gutierrez/) (Max Plank Institute for Meteorology)
+## September 7th 2020: [Dr. Laura Suarez-Gutierrez](https://www.mpimet.mpg.de/en/staff/laura-suarez-gutierrez/) (Max Plank Institute for Meteorology)
 time: 9 am (MDT), 3 pm (GMT), 5 pm (CEST)
 
-**TBC**
+**TITLE: TBC**
 
 <div style="text-align:center;">
 <a class="btn btn-success" href="https://large-ensemble.github.io/webinars/registration5">Register here</a>
