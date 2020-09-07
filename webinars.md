@@ -1,9 +1,3 @@
----
-layout: page
-title: Webinars (preview)
-subtitle: Webinar series on large ensembles
-permalink: /webinars_preview/
----
 
 ## October 12th 2020: [Dr. Laura Suarez-Gutierrez](https://www.mpimet.mpg.de/en/staff/laura-suarez-gutierrez/) (Max Plank Institute for Meteorology)
 time: 9 am (MDT), 3 pm (GMT), 5 pm (CEST)
