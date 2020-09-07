@@ -21,7 +21,7 @@ time: 9 am (MDT), 3 pm (GMT), 5 pm (CEST)
 
 ![image](https://mpimet.mpg.de/fileadmin/_processed_/a/1/csm_suarez_laura_d_1c8c0ab02a.jpg){: style="float: left; width: 200px; padding-right: 10px"}
 
-We are pleased to announce Dr. Laura Suárez Gutiérrez as our next speaker in the webinar series. Laura Suárez Gutiérrez works as a postdoctoral researcher at the Max-Planck-Institute for Meteorology (MPI-M). Her research focuses on understanding internal variability of European summer temperature and heat extremes. Furthermore, she works on new ways evaluating forced trends and variability in SMILEs.
+We are pleased to announce Dr. Laura Suarez-Gutierrez as our next speaker in the webinar series. Laura Suarez-Gutierrez works as a postdoctoral researcher at the Max-Planck-Institute for Meteorology (MPI-M). Her research focuses on understanding the internal variability of European heat extremes on different timescales. Furthermore, she works on new and better ways of evaluating the forced trends and variability in climate models using SMILEs.
 
 This webinar will be recorded subject to speaker approval.
 
