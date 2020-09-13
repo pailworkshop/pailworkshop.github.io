@@ -7,6 +7,16 @@ permalink: /webinars/archive/
 
 This page contains a list of all previous webinar presentations and, if available, a recording of the webinar.
 
+## September 7th 2020: [Dr. Karin van der Wiel](http://www.karinvanderwiel.nl/) (Royal Netherlands Meteorological Institute (KNMI))
+Ensemble climate-impact modelling: extreme impacts from moderate meteorological conditions
+
+<video width="600" controls>
+  <source src="http://seb21.gienah.uberspace.de/SMILE_webinar4_vanderwiel.mp4" type="video/mp4">
+  Your browser does not support HTML video.
+</video> 
+
+---
+
 ## August 3rd 2020: [Dr. Sarah Schlunegger](https://www.sarahschlunegger.com) (Princeton University)
 
 Large Ensemble Intercomparison of Anthropogenic Changes in Marine Biogeochemistry
