@@ -21,6 +21,6 @@ time: 9 am (MDT), 3 pm (GMT), 5 pm (CEST)
 
 **Title: TBA**
 
-![image](https://large-ensemble/large-ensemble.github.io/blob/master/salvatore.png){: style="float: left; width: 200px; padding-right: 10px"}
+![image](https://large-ensemble.github.io/salvatore.png){: style="float: left; width: 200px; padding-right: 10px"}
 
 We are excited to have Salvatore Pascale as our November speaker in the webinar series. Salvatore works as a Research Scientist at Stanford University. His research focuses on understanding the impact of climate natural variability and change  on the hydroclimate, with an emphasis on extreme events (e.g., droughts, extreme precipitation) in monsoonal, mediterranean and semi-arid climates. 
