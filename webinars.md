@@ -21,12 +21,6 @@ time: 9 am (MDT), 3 pm (GMT), 5 pm (CEST)
 
 **Title: TBA**
 
-<div style="text-align:center;">
-<a class="btn btn-success" href="https://large-ensemble.github.io/webinars/registration5">Register here</a>
-</div>
-
-*If you encounter problems with the registration form, try a different browser or [use this direct link to the form](https://docs.google.com/forms/d/e/1FAIpQLSf0SDihqHllZMNa-FUvpyciTmgdeGmzcgvqKoZ913NtsllEMw/viewform?usp=sf_link).*
-
 ![image](https://github.com/large-ensemble/large-ensemble.github.io/blob/master/salvatore.png){: style="float: left; width: 200px; padding-right: 10px"}
 
 We are excited to have Salvatore Pascale as our November speaker in the webinar series. Salvatore works as a Research Scientist at Stanford University. His research focuses on understanding the impact of climate natural variability and change  on the hydroclimate, with an emphasis on extreme events (e.g., droughts, extreme precipitation) in monsoonal, mediterranean and semi-arid climates. 
