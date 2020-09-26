@@ -16,11 +16,11 @@ time: 9 am (MDT), 3 pm (GMT), 5 pm (CEST)
 
 We are pleased to announce Dr. Laura Suarez-Gutierrez as our next speaker in the webinar series. Laura Suarez-Gutierrez works as a postdoctoral researcher at the Max-Planck-Institute for Meteorology (MPI-M). Her research focuses on understanding the internal variability of European heat extremes on different timescales. Furthermore, she works on new and better ways of evaluating the forced trends and variability in climate models using SMILEs.
 
-## November 10th 2020: [Dr.  Salvatore Pascale] (Stanford University)
+## November 10th 2020: Dr.  Salvatore Pascale (Stanford University)
 time: 9 am (MDT), 3 pm (GMT), 5 pm (CEST)
 
 **Title: TBA**
 
-![image](https://github.com/large-ensemble/large-ensemble.github.io/blob/master/salvatore.png){: style="float: left; width: 200px; padding-right: 10px"}
+![image](https://large-ensemble/large-ensemble.github.io/blob/master/salvatore.png){: style="float: left; width: 200px; padding-right: 10px"}
 
 We are excited to have Salvatore Pascale as our November speaker in the webinar series. Salvatore works as a Research Scientist at Stanford University. His research focuses on understanding the impact of climate natural variability and change  on the hydroclimate, with an emphasis on extreme events (e.g., droughts, extreme precipitation) in monsoonal, mediterranean and semi-arid climates. 
