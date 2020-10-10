@@ -19,7 +19,7 @@ We are pleased to announce Dr. Laura Suarez-Gutierrez as our next speaker in the
 ## November 17th 2020: Dr.  Salvatore Pascale (Stanford University)
 time: 9 am (MDT), 3 pm (GMT), 5 pm (CEST)
 
-**Title: TBA**
+**Growing risk of another Cape Town “Day Zero” drought in the twenty-first century**
 
 ![image](https://large-ensemble.github.io/salvatore.jpg){: style="float: left; width: 200px; padding-right: 10px"}
 
