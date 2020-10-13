@@ -17,6 +17,10 @@ Exploiting large ensembles for a better yet simpler climate model evaluation
   Your browser does not support HTML video.
 </video> 
 
+Additional resources:
+- [*Evaluating the internal variability and forced response in Large Ensembles*, US CLIVAR VARIATIONS, Vol. 18 No. 2](https://indd.adobe.com/view/20699135-35f6-4eaf-b85e-77553c2d0a4e?startpage=27)
+
+
 ---
 
 
