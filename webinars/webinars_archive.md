@@ -7,6 +7,19 @@ permalink: /webinars/archive/
 
 This page contains a list of all previous webinar presentations and, if available, a recording of the webinar.
 
+
+## October 12th 2020: [Dr. Laura Suarez-Gutierrez](https://www.mpimet.mpg.de/en/staff/laura-suarez-gutierrez/) (Max Plank Institute for Meteorology)
+
+Exploiting large ensembles for a better yet simpler climate model evaluation
+
+<video width="600" controls>
+  <source src="http://seb21.gienah.uberspace.de/SMILE_webinar5_Suarez_Gutierrez.mp4" type="video/mp4">
+  Your browser does not support HTML video.
+</video> 
+
+---
+
+
 ## September 7th 2020: [Dr. Karin van der Wiel](http://www.karinvanderwiel.nl/) (Royal Netherlands Meteorological Institute (KNMI))
 Ensemble climate-impact modelling: extreme impacts from moderate meteorological conditions
 
