@@ -7,6 +7,7 @@ permalink: /webinars_preview/
 
 drafts for upcoming webinars. This page is not linked on the public website. Copy contents to webinars page when ready.
 
+---
 
 ## October 12th 2020: [Dr. Laura Suarez-Gutierrez](https://www.mpimet.mpg.de/en/staff/laura-suarez-gutierrez/) (Max Plank Institute for Meteorology)
 time: 9 am (MDT), 3 pm (GMT), 5 pm (CEST)
@@ -24,18 +25,7 @@ time: 9 am (MDT), 3 pm (GMT), 5 pm (CEST)
 We are pleased to announce Dr. Laura Suarez-Gutierrez as our next speaker in the webinar series. Laura Suarez-Gutierrez works as a postdoctoral researcher at the Max-Planck-Institute for Meteorology (MPI-M). Her research focuses on understanding the internal variability of European heat extremes on different timescales. Furthermore, she works on new and better ways of evaluating the forced trends and variability in climate models using SMILEs.
 
 
-<br>
 
-
-
----
-layout: page
-title: Webinars (preview)
-subtitle: Webinar series on large ensembles
-permalink: /webinars_preview/
----
-
-drafts for upcoming webinars. This page is not linked on the public website. Copy contents to webinars page when ready.
 
 
 ## Early August 2020: [Dr. Sarah Schlunegger](https://www.sarahschlunegger.com) (Princeton University)
