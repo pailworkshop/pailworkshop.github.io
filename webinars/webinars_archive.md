@@ -13,7 +13,7 @@ This page contains a list of all previous webinar presentations and, if availabl
 Exploiting large ensembles for a better yet simpler climate model evaluation
 
 <video width="600" controls>
-  <source src="http://seb21.gienah.uberspace.de/SMILE_webinar5_Suarez_Gutierrez.mp4" type="video/mp4">
+  <source src="http://www.milinski.ch/SMILE_webinar/SMILE_webinar5_Suarez_Gutierrez.mp4" type="video/mp4">
   Your browser does not support HTML video.
 </video> 
 
@@ -28,7 +28,7 @@ Additional resources:
 Ensemble climate-impact modelling: extreme impacts from moderate meteorological conditions
 
 <video width="600" controls>
-  <source src="http://seb21.gienah.uberspace.de/SMILE_webinar4_vanderwiel.mp4" type="video/mp4">
+  <source src="http://www.milinski.ch/SMILE_webinar/SMILE_webinar4_vanderwiel.mp4" type="video/mp4">
   Your browser does not support HTML video.
 </video> 
 
@@ -39,7 +39,7 @@ Ensemble climate-impact modelling: extreme impacts from moderate meteorological 
 Large Ensemble Intercomparison of Anthropogenic Changes in Marine Biogeochemistry
 
 <video width="600" poster="https://large-ensemble.github.io/webinars/intro_image_webinar3.png" controls>
-  <source src="http://seb21.gienah.uberspace.de/SMILE_webinar3_Schlunegger.mp4" type="video/mp4">
+  <source src="www.milinski.ch/SMILE_webinar/SMILE_webinar3_Schlunegger.mp4" type="video/mp4">
   Your browser does not support HTML video.
 </video> _(presentation starts at 3:00; discussion starts at 46:00)_
 
@@ -55,7 +55,7 @@ Additional resources:
 Quantifying the Influence of COVID-19 Emission Reductions on Climate, and Other Applications of the New CanESM5 Super Large Ensemble
 
 <video width="600" controls>
-  <source src="http://seb21.gienah.uberspace.de/SMILE_webinar2_Fyfe.mp4" type="video/mp4">
+  <source src="http://www.milinski.ch/SMILE_webinar/SMILE_webinar2_Fyfe.mp4" type="video/mp4">
   Your browser does not support HTML video.
 </video> _(presentation starts at 1:38; discussion starts at 39:00)_
 
@@ -67,7 +67,7 @@ Quantifying the Influence of COVID-19 Emission Reductions on Climate, and Other 
 Isolating the Evolving Contributions of Anthropogenic Aerosols and Greenhouse Gases: A New CESM1 Large Ensemble Community Resource
 
 <video width="600" controls>
-  <source src="http://seb21.gienah.uberspace.de/SMILE_webinar1_Deser.mp4" type="video/mp4">
+  <source src="http://www.milinski.ch/SMILE_webinar/SMILE_webinar1_Deser.mp4" type="video/mp4">
   Your browser does not support HTML video.
 </video> _(presentation starts at 2:50; discussion starts at 41:00)_
 
