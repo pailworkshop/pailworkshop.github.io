@@ -67,7 +67,7 @@ Quantifying the Influence of COVID-19 Emission Reductions on Climate, and Other 
 Isolating the Evolving Contributions of Anthropogenic Aerosols and Greenhouse Gases: A New CESM1 Large Ensemble Community Resource
 
 <video width="600" controls>
-  <source src="http://www.milinski.ch/SMILE_webinar/SMILE_webinar1_Deser.mp4" type="video/mp4">
+  <source src="https://swift.dkrz.de/v1/dkrz_caba26f2-8188-44a7-a55f-e59d33d34c7d/SMILE_webinar/SMILE_webinar1_Deser.mp4" type="video/mp4">
   Your browser does not support HTML video.
 </video> _(presentation starts at 2:50; discussion starts at 41:00)_
 
