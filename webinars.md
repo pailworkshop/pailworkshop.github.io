@@ -14,6 +14,9 @@ time: 9 am (MDT), 3 pm (GMT), 5 pm (CEST)
 
 We are excited to have Salvatore Pascale as our November speaker in the webinar series. Salvatore works as a Research Scientist at Stanford University. His research focuses on understanding the impact of climate natural variability and change  on the hydroclimate, with an emphasis on extreme events (e.g., droughts, extreme precipitation) in monsoonal, mediterranean and semi-arid climates. 
 
+
+
+
 ## Coming in 2021: [Dr.  Giovanni Liguori](http://gianni.geosci.monash.edu/) (Monash University)
 time: TBD
 
