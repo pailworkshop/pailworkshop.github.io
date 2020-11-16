@@ -2,7 +2,7 @@ In this series of virtual seminars, invited speakers will give a ~30 minute pres
 
 
 ## November 17th 2020: Dr.  Salvatore Pascale (Stanford University)
-time: 9 am (MDT), 3 pm (GMT), 5 pm (CEST)
+time: 9 am (MST), 4 pm (GMT), 5 pm (CET)
 
 **Growing risk of another Cape Town “Day Zero” drought in the twenty-first century**
 
