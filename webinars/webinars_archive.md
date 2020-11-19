@@ -18,7 +18,7 @@ Growing risk of another Cape Town “Day Zero” drought in the twenty-first cen
 
 Additional resources:
 - [*Increasing risk of another Cape Town “Day Zero” drought in the 21st century*, PNAS 2020](https://www.pnas.org/content/early/2020/11/03/2009144117)
-- Data availability: The data that support the findings of this study are deposited in the National Centers for Environmental Information at https://doi.org/10.25921/rwe5-fw03 (SPEAR, FLOR), in the Earth System Grid Federation Node at DKRZ at https://esgf-data.dkrz.de/projects/mpi-ge/ (MPI-GE) (51), and in the NCAR’s Climate Data Gateway at https://doi.org/10.5065/d6j101d1 (52).
+- Data availability: The data that support the findings of this study are deposited in the National Centers for Environmental Information at [https://doi.org/10.25921/rwe5-fw03](https://doi.org/10.25921/rwe5-fw03) (SPEAR, FLOR), in the Earth System Grid Federation Node at DKRZ at [https://esgf-data.dkrz.de/projects/mpi-ge/](https://esgf-data.dkrz.de/projects/mpi-ge/) (MPI-GE) (51), and in the NCAR’s Climate Data Gateway at [https://doi.org/10.5065/d6j101d1](https://doi.org/10.5065/d6j101d1) (52).
 
 
 ---
