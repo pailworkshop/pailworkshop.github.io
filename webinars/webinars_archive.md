@@ -7,6 +7,20 @@ permalink: /webinars/archive/
 
 This page contains a list of all previous webinar presentations and, if available, a recording of the webinar.
 
+## November 17th 2020: Dr.  Salvatore Pascale (Stanford University)
+
+Growing risk of another Cape Town “Day Zero” drought in the twenty-first century
+
+<video width="600" controls>
+  <source src="https://swift.dkrz.de/v1/dkrz_caba26f2-8188-44a7-a55f-e59d33d34c7d/SMILE_webinar/SMILE_webinar6_Pascale.mp4" type="video/mp4">
+  Your browser does not support HTML video.
+</video> 
+
+Additional resources:
+- [*Increasing risk of another Cape Town “Day Zero” drought in the 21st century*, PNAS 2020](https://www.pnas.org/content/early/2020/11/03/2009144117)
+
+
+---
 
 ## October 12th 2020: [Dr. Laura Suarez-Gutierrez](https://www.mpimet.mpg.de/en/staff/laura-suarez-gutierrez/) (Max Plank Institute for Meteorology)
 
