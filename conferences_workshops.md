@@ -12,7 +12,16 @@ Is anything missing in this list? Let us know!
 ---
 ## Upcoming sessions
 
-_currently no sessions listed_
+### vEGU21 
+**AS4.3 Large Ensemble Climate Model Simulations as Tools for Exploring Natural Variability, Change Signals, and Impacts**
+
+Our invited speaker will be **Dr. Megan Kirchmeier-Young** from Environment and Climate Change Canada.
+
+Abstracts may be submitted until **13th January 2021, 13:00 CET**.
+
+[Session description](https://meetingorganizer.copernicus.org/EGU21/session/40830)
+
+This edition of the EGU General Assembly will be held during 19-30 April 2021 as a virtual conference (vEGU21: Gather Online) and all sessions will be run in the new EGU virtual PICO (vPICO) session format. For more details on the new session format see the [Provisional format of vEGU21](https://egu21.eu/about/provisional_format_of_egu21.html).
 
 ---
 ## Previous sessions
