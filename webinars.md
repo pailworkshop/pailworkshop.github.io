@@ -1,11 +1,9 @@
 In this series of virtual seminars, invited speakers will give a ~30 minute presentation, followed by up to 30 minutes of discussion. The whole webinar session is limited to 60 minutes.
 
 
+## 15th Feburary 2020 2pm MST 8pm GMT 9pm CET/ 16th Feburary 2020 8am AEDT : [Dr.  Giovanni Liguori](http://gianni.geosci.monash.edu/) (Monash University)
 
-## Coming in 2021: [Dr.  Giovanni Liguori](http://gianni.geosci.monash.edu/) (Monash University)
-time: TBD
-
-**Title TBD**
+**A joint role for forced and internally-driven variability in the decadal modulation of global warming**
 
 ![image](https://large-ensemble.github.io/GiovanniLiguori_photo.jpg){: style="float: left; width: 200px; padding-right: 10px"}
 
