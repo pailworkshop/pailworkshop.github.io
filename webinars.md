@@ -4,6 +4,7 @@ In this series of virtual seminars, invited speakers will give a ~30 minute pres
 ## 15th Feburary 2020 2pm MST 8pm GMT 9pm CET/ 16th Feburary 2020 8am AEDT : [Dr.  Giovanni Liguori](http://gianni.geosci.monash.edu/) (Monash University)
 
 **A joint role for forced and internally-driven variability in the decadal modulation of global warming**
+[Register here](https://docs.google.com/forms/d/e/1FAIpQLScwi6D7f-cNahadoBzXU0zHbZTDfFZhS0aMtBZxO9WLGFoaKw/viewform)
 
 ![image](https://large-ensemble.github.io/GiovanniLiguori_photo.jpg){: style="float: left; width: 200px; padding-right: 10px"}
 
