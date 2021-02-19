@@ -8,7 +8,7 @@ Who is behind this website? We are a group of researchers with a shared interest
 In autumn 2019 we organised a large ensemble workshop at LMU in Munich, Germany, and in 2020 we launched this website and a new SMILE webinar series.
 
 - **Andrea Dittus**, University of Reading, [twitter](https://twitter.com/andrea_dittus), [website](https://research.reading.ac.uk/meteorology/people/andrea-dittus/)
-- **Flavio Lehner**, ETH Zurich/NCAR , [twitter](https://twitter.com/ClimateFlavors), [website](https://flaviolehner.wordpress.com/)
+- **Flavio Lehner**, Cornell University/NCAR , [twitter](https://twitter.com/ClimateFlavors), [website](https://flaviolehner.wordpress.com/)
 - **Nicola Maher**, Max Planck Institute for Meteorology , [twitter](https://twitter.com/Nicola__Maher), [website](https://nicolamaher.weebly.com/)
 - **Raul Wood**, LMU Munich, [website](https://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=270)
 - **Sebastian Milinski**, Max Planck Institute for Meteorology, [twitter](https://twitter.com/SebMilinski), [website](https://www.mpimet.mpg.de/en/staff/sebastian-milinski/)
