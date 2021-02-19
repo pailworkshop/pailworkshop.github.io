@@ -7,6 +7,17 @@ permalink: /webinars/archive/
 
 This page contains a list of all previous webinar presentations and, if available, a recording of the webinar.
 
+## Feburary 15th 2021: [Dr.  Giovanni Liguori](http://gianni.geosci.monash.edu/) (Monash University)
+
+A joint role for forced and internally-driven variability in the decadal modulation of global warming
+
+<video width="600" poster="https://large-ensemble.github.io/webinars/intro_image_webinar7.png" controls>
+  <source src="https://swift.dkrz.de/v1/dkrz_caba26f2-8188-44a7-a55f-e59d33d34c7d/SMILE_webinar/SMILE_webinar7_Liguori.mp4" type="video/mp4">
+  Your browser does not support HTML video.
+</video>
+
+
+
 ## November 17th 2020: Dr.  Salvatore Pascale (Stanford University)
 
 Growing risk of another Cape Town “Day Zero” drought in the twenty-first century
