@@ -16,6 +16,9 @@ A joint role for forced and internally-driven variability in the decadal modulat
   Your browser does not support HTML video.
 </video>
 
+Additional resources:
+- [Paper: *A joint role for forced and internally-driven variability in the decadal modulation of global warming*, Nature Communications 2020](https://www.nature.com/articles/s41467-020-17683-7)
+
 
 
 ## November 17th 2020: Dr.  Salvatore Pascale (Stanford University)
