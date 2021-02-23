@@ -8,4 +8,4 @@ In this series of virtual seminars, invited speakers will give a ~30 minute pres
 
 ![image](https://large-ensemble.github.io/picture_magdalena.jpeg){: style="float: left; width: 200px; padding-right: 10px"}
 
-We would like to announce Magdalena Mittermeier [Linkedin](https://www.linkedin.com/in/magdalena-mittermeier-71354a1a7/) as our next speaker. Magdalena Mittermeier is a PhD candidate at the Ludwig-Maximilians-Universität München. She does research in synoptic climatology and studies climate change impacts on hydro-meteorological extremes. In this regard, she works with single model large ensembles and machine learning techniques. 
+We would like to announce Magdalena Mittermeier ([Linkedin](https://www.linkedin.com/in/magdalena-mittermeier-71354a1a7/)) as our next speaker. Magdalena Mittermeier is a PhD candidate at the Ludwig-Maximilians-Universität München. She does research in synoptic climatology and studies climate change impacts on hydro-meteorological extremes. In this regard, she works with single model large ensembles and machine learning techniques. 
