@@ -1,7 +1,7 @@
 In this series of virtual seminars, invited speakers will give a ~30 minute presentation, followed by up to 30 minutes of discussion. The whole webinar session is limited to 60 minutes.
 
 
-## 15th March 2021 5pm (CET), 12pm (EST), 10am (MST): [Magdalena Mittermeier (LMU Munich)](https://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=311)
+## 15th March 2021 5pm (CET), 12pm (EDT), 10am (MDT): [Magdalena Mittermeier (LMU Munich)](https://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=311)
 
 **Employing Neural Networks for the Detection of Vb Cyclones and their Climate Change Effects.**
 [Register here](https://forms.gle/G7DeswGSsWnprama9)
