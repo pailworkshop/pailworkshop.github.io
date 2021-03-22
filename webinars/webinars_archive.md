@@ -7,6 +7,20 @@ permalink: /webinars/archive/
 
 This page contains a list of all previous webinar presentations and, if available, a recording of the webinar.
 
+## March 15th 2021: [Magdalena Mittermeier](https://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=311) (LMU Munich)
+
+Employing Neural Networks for the Detection of Vb Cyclones and their Climate Change Effects.
+
+<video width="600" poster="https://large-ensemble.github.io/webinars/intro_image_webinar8.png" controls>
+  <source src="https://swift.dkrz.de/v1/dkrz_caba26f2-8188-44a7-a55f-e59d33d34c7d/SMILE_webinar/SMILE_webinar8_Mittermeier.mp4" type="video/mp4">
+  Your browser does not support HTML video.
+</video>
+
+Additional resources:
+- [Paper: *Detecting Climate Change Effects on Vb Cyclones in a 50‐Member Single‐Model Ensemble Using Machine Learning*, Geophysical Research Letters 2019](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL084969)
+
+
+
 ## Feburary 15th 2021: [Dr.  Giovanni Liguori](http://gianni.geosci.monash.edu/) (Monash University)
 
 A joint role for forced and internally-driven variability in the decadal modulation of global warming
