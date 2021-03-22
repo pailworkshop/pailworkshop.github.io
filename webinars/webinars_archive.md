@@ -19,7 +19,7 @@ Employing Neural Networks for the Detection of Vb Cyclones and their Climate Cha
 Additional resources:
 - [Paper: *Detecting Climate Change Effects on Vb Cyclones in a 50‐Member Single‐Model Ensemble Using Machine Learning*, Geophysical Research Letters 2019](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL084969)
 
-
+---
 
 ## Feburary 15th 2021: [Dr.  Giovanni Liguori](http://gianni.geosci.monash.edu/) (Monash University)
 
@@ -33,7 +33,7 @@ A joint role for forced and internally-driven variability in the decadal modulat
 Additional resources:
 - [Paper: *A joint role for forced and internally-driven variability in the decadal modulation of global warming*, Nature Communications 2020](https://www.nature.com/articles/s41467-020-17683-7)
 
-
+---
 
 ## November 17th 2020: Dr.  Salvatore Pascale (Stanford University)
 
