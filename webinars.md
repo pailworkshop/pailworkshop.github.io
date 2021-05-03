@@ -5,7 +5,7 @@ In this series of virtual seminars, invited speakers will give a ~30 minute pres
 
 For the next webinars taking place in May, we have a special format: for each webinar (duration 1 hour), we invite 3 speakers who also present in the SMILE session at EGU to talk about their work.
 
-### Registration: https://forms.gle/vG9nC7sKps5z9joUA
+Registration: https://forms.gle/vG9nC7sKps5z9joUA
 
 ## Monday May 10, 5pm (CET), 12pm (EDT), 10am (MDT): EGU special part 1
 
