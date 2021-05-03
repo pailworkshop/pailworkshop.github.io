@@ -7,7 +7,7 @@ For the next webinars taking place in May, we have a special format: for each we
 
 Registration: https://forms.gle/vG9nC7sKps5z9joUA
 
-## Monday May 10, 5pm (CET), 12pm (EDT), 10am (MDT): EGU special part 1
+## Monday May 10, 5pm (CEST), 11am (ET), 9am (MDT): EGU special part 1
 
 Alexandra Jahn: Forced Changes in the Arctic Freshwater Budget Emerge in the Early 21st Century 
 
@@ -15,7 +15,7 @@ Karin van der Wiel: Physical storylines of future European drought events like 2
 
 Nicole Ritzhaupt: Robustness of projections of European precipitation for seasonal means and seasonal extremes
 
-## May 17 2021 5pm (CET), 12pm (EDT), 10am (MDT): EGU special part 2
+## May 17 2021 5pm (CEST), 11am (EDT), 9am (MDT): EGU special part 2
 
 Timo Kelder: Seasonal predictions as a high-resolution large ensemble to study extreme events over recent decades
 
