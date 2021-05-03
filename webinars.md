@@ -23,4 +23,4 @@ Gabrielle Dallaire / Richard Arsenault: Calibration of a reinforcement learning 
 
 Christopher Callahan: El Niño variability mediates 21st century growth effects of climate change
 
-In June, we will resume with the standard format: one webianr per month with an invited speaker.
+In June, we will resume with the standard format: one webinar per month with an invited speaker.
