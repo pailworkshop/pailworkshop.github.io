@@ -15,7 +15,7 @@ Karin van der Wiel: Physical storylines of future European drought events like 2
 
 Nicole Ritzhaupt: Robustness of projections of European precipitation for seasonal means and seasonal extremes
 
-## Monday May 17 2021 5pm (CEST), 11am (EDT), 9am (MDT): EGU special part 2
+## Monday May 17, 5pm (CEST), 11am (EDT), 9am (MDT): EGU special part 2
 
 Timo Kelder: Seasonal predictions as a high-resolution large ensemble to study extreme events over recent decades
 
