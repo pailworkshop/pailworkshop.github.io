@@ -10,7 +10,23 @@ Is anything missing in this list? Let us know!
 </div>
 
 ---
-## Upcoming sessions
+## Upcoming workshops
+
+### WCRP workshop on attribution of multi-annual to decadal changes in the climate system
+
+Registration and abstract submission are now open for the Explaining and Predicting Earth System Change Lighthouse Activity Workshop on 'Attribution of multi-annual to decadal changes in the climate system.' The workshop will take place online, from 22-24 September 2021. The aim of this workshop is to document current research, identify challenges, and explore potential pathways towards building an operational capability to attribute multi-annual to decadal changes in the climate system on global-to-regional scales.
+
+We are particularly interested in Large Ensemble research, as this is a key tool for attribution of climate change in the face of internal variability.
+ 
+To learn more about the workshop and to and register and/or submit an abstract, visit the workshop website at: https://wcrp-epesc.sciencesconf.org
+
+The deadline for abstract submission is 30 June 2021.
+
+[Workshop Organizing Committee](https://wcrp-epesc.sciencesconf.org/resource/page/id/1)
+
+
+---
+## Previous sessions
 
 ### vEGU21 
 **AS4.3 Large Ensemble Climate Model Simulations as Tools for Exploring Natural Variability, Change Signals, and Impacts**
@@ -30,7 +46,6 @@ Please note that you must be registered for the conference in order to obtain ac
 [Register here](https://egu21.eu/register.html)
 
 ---
-## Previous sessions
 
 ### EGU 2020
 
