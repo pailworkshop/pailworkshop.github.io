@@ -18,7 +18,7 @@ Registration and abstract submission are now open for the Explaining and Predict
 
 We are particularly interested in Large Ensemble research, as this is a key tool for attribution of climate change in the face of internal variability.
  
-To learn more about the workshop and to and register and/or submit an abstract, visit the workshop website at: https://wcrp-epesc.sciencesconf.org
+To learn more about the workshop and to and register and/or submit an abstract, visit the workshop website at: [https://wcrp-epesc.sciencesconf.org](https://wcrp-epesc.sciencesconf.org)
 
 The deadline for abstract submission is 30 June 2021.
 
