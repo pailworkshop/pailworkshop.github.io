@@ -75,6 +75,10 @@ Ensemble climate-impact modelling: extreme impacts from moderate meteorological 
   Your browser does not support HTML video.
 </video> 
 
+Additional resources:
+- [Paper: Ensemble climate-impact modelling: extreme impacts from moderate meteorological conditions, Environmental Research Letters, 2020](http://doi.org/10.1088/1748-9326/ab7668)
+- [Paper: Meteorological conditions leading to extreme low variable renewable energy production and extreme high energy shortfall, Renewable and Sustainable Energy Reviews, 2019](http://doi.org/10.1016/j.rser.2019.04.065)
+- [Paper: Added value of large ensemble simulations for assessing extreme river discharge in a 2 °C warmer world. Geophysical Research Letters, 2019](http://doi.org/10.1029/2019GL081967)
 ---
 
 ## August 3rd 2020: [Dr. Sarah Schlunegger](https://www.sarahschlunegger.com) (Princeton University)
