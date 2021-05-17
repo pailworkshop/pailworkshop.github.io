@@ -8,9 +8,9 @@ permalink: /webinars/archive/
 This page contains a list of all previous webinar presentations and, if available, a recording of the webinar.
 
 ## May 10th 2021: [EGU Special part 1]
-### Alexandra Jahn: Forced Changes in the Arctic Freshwater Budget Emerge in the Early 21st Century
-### Karin van der Wiel: Physical storylines of future European drought events like 2018 based on ensemble climate modelling
-### Nicole Ritzhaupt: Robustness of projections of European precipitation for seasonal means and seasonal extremes
+- **Alexandra Jahn: Forced Changes in the Arctic Freshwater Budget Emerge in the Early 21st Century**
+- **Karin van der Wiel: Physical storylines of future European drought events like 2018 based on ensemble climate modelling**
+- **Nicole Ritzhaupt: Robustness of projections of European precipitation for seasonal means and seasonal extremes**
 
 
 <video width="600" poster="https://large-ensemble.github.io/webinars/intro_image_webinar9.png" controls>
