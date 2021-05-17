@@ -18,6 +18,12 @@ This page contains a list of all previous webinar presentations and, if availabl
   Your browser does not support HTML video.
 </video>
 
+Additional Resources for Alexandra Jahn's presentation:
+- [Paper: *Forced Changes in the Arctic Freshwater Budget Emerge in the Early 21st Century*, Geophysical Research Letters 2020](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL088854)
+- [Data: * Arctic Ocean freshwater fluxes and storage from simulations with the Community Earth System Model version 1.1 (CESM1.1), 2020*](https://arcticdata.io/catalog/view/doi%3A10.18739%2FA2280504J)
+- [Data: *CESM1 CAM5 BGC Large Ensemble*](https://www.earthsystemgrid.org/dataset/ucar.cgd.ccsm4.CESM_CAM5_BGC_LE.html)
+- [Data: *CESM Low Warming runs*](https://github.com/large-ensemble/large-ensemble.github.io/edit/master/webinars/webinars_archive.md)
+
 ---
 
 
@@ -93,6 +99,7 @@ Additional resources:
 - [Paper: Ensemble climate-impact modelling: extreme impacts from moderate meteorological conditions, Environmental Research Letters, 2020](http://doi.org/10.1088/1748-9326/ab7668)
 - [Paper: Meteorological conditions leading to extreme low variable renewable energy production and extreme high energy shortfall, Renewable and Sustainable Energy Reviews, 2019](http://doi.org/10.1016/j.rser.2019.04.065)
 - [Paper: Added value of large ensemble simulations for assessing extreme river discharge in a 2 °C warmer world. Geophysical Research Letters, 2019](http://doi.org/10.1029/2019GL081967)
+
 ---
 
 ## August 3rd 2020: [Dr. Sarah Schlunegger](https://www.sarahschlunegger.com) (Princeton University)
