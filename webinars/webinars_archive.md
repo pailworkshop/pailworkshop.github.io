@@ -7,6 +7,20 @@ permalink: /webinars/archive/
 
 This page contains a list of all previous webinar presentations and, if available, a recording of the webinar.
 
+## May 10th 2021: [EGU Special part 1]
+### Alexandra Jahn: Forced Changes in the Arctic Freshwater Budget Emerge in the Early 21st Century
+### Karin van der Wiel: Physical storylines of future European drought events like 2018 based on ensemble climate modelling
+### Nicole Ritzhaupt: Robustness of projections of European precipitation for seasonal means and seasonal extremes
+
+
+<video width="600" poster="https://large-ensemble.github.io/webinars/intro_image_webinar9.png" controls>
+  <source src="https://swift.dkrz.de/v1/dkrz_caba26f2-8188-44a7-a55f-e59d33d34c7d/SMILE_webinar/SMILE_webinar9_EGUpart1.mp4" type="video/mp4">
+  Your browser does not support HTML video.
+</video>
+
+---
+
+
 ## March 15th 2021: [Magdalena Mittermeier](https://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=311) (LMU Munich)
 
 Employing Neural Networks for the Detection of Vb Cyclones and their Climate Change Effects.
