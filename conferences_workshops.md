@@ -24,6 +24,24 @@ The deadline for abstract submission is 30 June 2021.
 
 [Workshop Organizing Committee](https://wcrp-epesc.sciencesconf.org/resource/page/id/1)
 
+---
+
+### WCRP Workshop on Extremes in Climate Prediction Ensembles (ExCPEns) and associated Early Career Scientist Training and Discussion Forum
+
+The WCRP Workshop on Extremes in Climate Prediction Ensembles (ExCPEns) and associated Early Career Scientist Training and Discussion Forum will be held online 25-27 and 27-28 October 2021 respectively.
+
+The ExCPEns workshop will highlight the latest global research on applying subseasonal, seasonal, decadal and longer-term climate prediction ensembles to predict and assess the probabilities and nature of extreme weather and climate events.
+
+The ECS training and networking session is targeted toward capacity development in the Asia-Pacific region, although applications from other regions will be considered.
+
+Although the workshop is oriented primarily toward observationally initialized ensembles for subseasonal, seasonal and decadal prediction, it is aiming also to represent and explore commonalities with climate simulation and projection large ensembles as they relate to weather and climate extremes.
+ 
+To learn more about the workshop and to register, visit the workshop website at: [https://www.wcrp-climate.org/news/wcrp-news/1702-excpens-workshop](https://www.wcrp-climate.org/news/wcrp-news/1702-excpens-workshop)
+
+The deadline for abstract submission is 30 June 2021.
+
+
+
 
 ---
 ## Previous sessions
