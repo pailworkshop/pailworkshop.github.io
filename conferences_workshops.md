@@ -10,7 +10,25 @@ Is anything missing in this list? Let us know!
 </div>
 
 ---
-## Upcoming workshops
+## Upcoming workshops and conferences
+
+### AGU Fall Meeting 2021: Large Ensemble Climate Model Simulations as Tools for Exploring Natural Variability, Change Signals, and Impacts
+
+Abstract submission is open until August 4: [https://agu.confex.com/agu/fm21/prelim.cgi/Session/120134]
+
+This year's format allows both virtual and in-person contributions and we will try to make this session for everyone with both in-person and remote convenors.
+
+We invite submissions that exploit single model initial-condition large ensemble (SMILE) simulations of global or regional models to look at:
+  * Reinterpretation of the observed record in light of internal variability
+  * Forced changes and impacts of natural climate variability in the past and in future projections
+  * New approaches to attribute observed events or trends
+  * Assessment of extreme and compound event occurrence
+  * Combining SMILEs with CMIP ensembles for robust decision making
+  * Large ensembles as testbeds for method development including machine learning
+
+We encourage contributions with interdisciplinary applications beyond large-scale climate dynamics (e.g. biogeochemical cycles, hydrology, agriculture, air pollution, or energy systems).
+
+
 
 ### WCRP workshop on attribution of multi-annual to decadal changes in the climate system
 
