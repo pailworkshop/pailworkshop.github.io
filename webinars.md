@@ -1,26 +1,17 @@
 In this series of virtual seminars, invited speakers will give a ~30 minute presentation, followed by up to 30 minutes of discussion. The whole webinar session is limited to 60 minutes.
 
 
-## EGU special
+## September 13th 2020: [Dr. Andrea Dittus](https://research.reading.ac.uk/meteorology/people/andrea-dittus/) (University of Reading)
+time: 9 am (MDT), 3 pm (GMT), 5 pm (CEST)
 
-For the next webinars taking place in May, we have a special format: for each webinar (duration 1 hour), we invite 3 speakers who also present in the SMILE session at EGU to talk about their work.
+**Role of aerosol forcing for recent Pacific decadal variability and other applications of large climate model ensembles**
 
-Registration: https://forms.gle/vG9nC7sKps5z9joUA
+<div style="text-align:center;">
+<a class="btn btn-success" href="https://large-ensemble.github.io/webinars/registration6">Register here</a>
+</div>
 
-## Monday May 10, 5pm (CEST), 11am (EDT), 9am (MDT): EGU special part 1
+*If you encounter problems with the registration form, try a different browser or [use this direct link to the form](https://docs.google.com/forms/d/e/1FAIpQLSf0SDihqHllZMNa-FUvpyciTmgdeGmzcgvqKoZ913NtsllEMw/viewform?usp=sf_link).*
 
-Alexandra Jahn: Forced Changes in the Arctic Freshwater Budget Emerge in the Early 21st Century 
+![image](https://research.reading.ac.uk/meteorology/wp-content/uploads/sites/8/People/andrea_dittus.jpg){: style="float: left; width: 200px; padding-right: 10px"}
 
-Karin van der Wiel: Physical storylines of future European drought events like 2018 based on ensemble climate modelling
-
-Nicole Ritzhaupt: Robustness of projections of European precipitation for seasonal means and seasonal extremes
-
-## Monday May 17, 5pm (CEST), 11am (EDT), 9am (MDT): EGU special part 2
-
-Timo Kelder: Seasonal predictions as a high-resolution large ensemble to study extreme events over recent decades
-
-Gabrielle Dallaire / Richard Arsenault: Calibration of a reinforcement learning method with the ClimEx large ensemble and a weather generator for water management
-
-Christopher Callahan: El Niño variability mediates 21st century growth effects of climate change
-
-In June, we will resume with the standard format: one webinar per month with an invited speaker.
+Andrea is a research scientist at the National Centre for Atmospheric Science and Department of Meteorology at the University of Reading. Her research focuses on understanding various aspects of historical and future climate variability and change. She is particularly interested in understanding how different forcing agents such as greenhouse gases and anthropogenic aerosols interact with internal variability, to shape the climate we experience across the globe.
