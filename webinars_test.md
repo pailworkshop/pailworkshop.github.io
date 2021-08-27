@@ -8,6 +8,32 @@ permalink: /webinars_preview/
 drafts for upcoming webinars. This page is not linked on the public website. Copy contents to webinars page when ready.
 
 ---
+## EGU special
+
+For the next webinars taking place in May, we have a special format: for each webinar (duration 1 hour), we invite 3 speakers who also present in the SMILE session at EGU to talk about their work.
+
+Registration: https://forms.gle/vG9nC7sKps5z9joUA
+
+## Monday May 10, 5pm (CEST), 11am (EDT), 9am (MDT): EGU special part 1
+
+Alexandra Jahn: Forced Changes in the Arctic Freshwater Budget Emerge in the Early 21st Century 
+
+Karin van der Wiel: Physical storylines of future European drought events like 2018 based on ensemble climate modelling
+
+Nicole Ritzhaupt: Robustness of projections of European precipitation for seasonal means and seasonal extremes
+
+## Monday May 17, 5pm (CEST), 11am (EDT), 9am (MDT): EGU special part 2
+
+Timo Kelder: Seasonal predictions as a high-resolution large ensemble to study extreme events over recent decades
+
+Gabrielle Dallaire / Richard Arsenault: Calibration of a reinforcement learning method with the ClimEx large ensemble and a weather generator for water management
+
+Christopher Callahan: El Niño variability mediates 21st century growth effects of climate change
+
+In June, we will resume with the standard format: one webinar per month with an invited speaker.
+
+---
+
 
 ## October 12th 2020: [Dr. Laura Suarez-Gutierrez](https://www.mpimet.mpg.de/en/staff/laura-suarez-gutierrez/) (Max Plank Institute for Meteorology)
 time: 9 am (MDT), 3 pm (GMT), 5 pm (CEST)
