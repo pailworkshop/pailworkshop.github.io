@@ -10,7 +10,7 @@ time: 9 am (MDT), 3 pm (GMT), 5 pm (CEST)
 <a class="btn btn-success" href="https://large-ensemble.github.io/webinars/registration6">Register here</a>
 </div>
 
-*If you encounter problems with the registration form, try a different browser or [use this direct link to the form](https://docs.google.com/forms/d/e/1FAIpQLSf0SDihqHllZMNa-FUvpyciTmgdeGmzcgvqKoZ913NtsllEMw/viewform?usp=sf_link).*
+*If you encounter problems with the registration form, try a different browser or [use this direct link to the form](https://docs.google.com/forms/d/e/1FAIpQLSffYSIumHpCUQ5O_C-L5nDFSrkp_qMHhDIA0hCoZoEjjdRcAg/viewform?usp=sf_link).*
 
 ![image](https://research.reading.ac.uk/meteorology/wp-content/uploads/sites/8/People/andrea_dittus.jpg){: style="float: left; width: 200px; padding-right: 10px"}
 
