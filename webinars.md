@@ -7,7 +7,7 @@ time: 9 am (MDT), 3 pm (GMT), 5 pm (CEST)
 **Role of aerosol forcing for recent Pacific decadal variability and other applications of large climate model ensembles**
 
 <div style="text-align:center;">
-<a class="btn btn-success" href="https://large-ensemble.github.io/webinars/registration6">Register here</a>
+<a class="btn btn-success" href="https://large-ensemble.github.io/webinars/registration11">Register here</a>
 </div>
 
 *If you encounter problems with the registration form, try a different browser or [use this direct link to the form](https://docs.google.com/forms/d/e/1FAIpQLSffYSIumHpCUQ5O_C-L5nDFSrkp_qMHhDIA0hCoZoEjjdRcAg/viewform?usp=sf_link).*
