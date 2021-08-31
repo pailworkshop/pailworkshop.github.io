@@ -2,7 +2,8 @@ In this series of virtual seminars, invited speakers will give a ~30 minute pres
 
 
 ## September 13th 2020: [Dr. Andrea Dittus](https://research.reading.ac.uk/meteorology/people/andrea-dittus/) (University of Reading)
-time: 9 am (MDT), 3 pm (GMT), 5 pm (CEST)
+time: 9am MDT, 11am EDT, 4pm BST, 5pm CEST
+
 
 **Role of aerosol forcing for recent Pacific decadal variability and other applications of large climate model ensembles**
 
