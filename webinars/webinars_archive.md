@@ -5,7 +5,27 @@ subtitle: Webinar series on large ensembles
 permalink: /webinars/archive/
 ---
 
+
 This page contains a list of all previous webinar presentations and, if available, a recording of the webinar.
+
+## May 17th 2021: [EGU Special part 2]
+- **[Timo Kelder](https://timokelder.netlify.app/): Seasonal predictions as a high-resolution large ensemble to study extreme events over recent decades**
+- **[Richard Arsenault](): Calibration of a reinforcement learning method with the ClimEx large ensemble and a weather generator for water management**
+- **[Christopher Callahan](https://ccallahan45.github.io): El Niño variability mediates 21st century growth effects of climate change**
+
+
+<video width="600" poster="https://large-ensemble.github.io/webinars/intro_image_webinar10.png" controls>
+  <source src="https://swift.dkrz.de/v1/dkrz_caba26f2-8188-44a7-a55f-e59d33d34c7d/SMILE_webinar/SMILE_webinar10_EGUpart2.mp4" type="video/mp4">
+  Your browser does not support HTML video.
+</video>
+
+Additional Resources for Timo Kelder's presentation:
+- [Preprint: *An open workflow for the study of unseen weather extremes*](https://doi.org/10.31223/X5T04C)
+- [Paper: * Using UNSEEN trends to detect decadal changes in 100-year precipitation extremes*, npj Climate and Atmospheric Science 2020](https://doi.org/10.1038/s41612-020-00149-4)
+- [Technical documentation of the workflow](https://unseen-open.readthedocs.io/en/latest/#)
+
+
+---
 
 ## May 10th 2021: [EGU Special part 1]
 - **[Alexandra Jahn](https://instaar.colorado.edu/people/alexandra-jahn/): Forced Changes in the Arctic Freshwater Budget Emerge in the Early 21st Century**
