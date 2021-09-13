@@ -1,18 +1,17 @@
 In this series of virtual seminars, invited speakers will give a ~30 minute presentation, followed by up to 30 minutes of discussion. The whole webinar session is limited to 60 minutes.
 
 
-## September 13th 2020: [Dr. Andrea Dittus](https://research.reading.ac.uk/meteorology/people/andrea-dittus/) (University of Reading)
+## October 18th 2021: [Dr. Nicola Maher](https://www.colorado.edu/atoc/nicola-maher) (University of Colorado, Boulder)
 time: 9am MDT, 11am EDT, 4pm BST, 5pm CEST
 
 
-**Role of aerosol forcing for recent Pacific decadal variability and other applications of large climate model ensembles**
+**The role of model-to-model differences and internal variability in causing uncertainty in climate projections**
 
 <div style="text-align:center;">
-<a class="btn btn-success" href="https://large-ensemble.github.io/webinars/registration11">Register here</a>
+<a class="btn btn-success" href="https://large-ensemble.github.io/webinars/registration12">Register here</a>
 </div>
 
-*If you encounter problems with the registration form, try a different browser or [use this direct link to the form](https://docs.google.com/forms/d/e/1FAIpQLSffYSIumHpCUQ5O_C-L5nDFSrkp_qMHhDIA0hCoZoEjjdRcAg/viewform?usp=sf_link).*
+*If you encounter problems with the registration form, try a different browser or [use this direct link to the form](https://forms.gle/iMp7jH7Rnre5tpXf7).*
 
-![image](https://research.reading.ac.uk/meteorology/wp-content/uploads/sites/8/People/andrea_dittus.jpg){: style="float: left; width: 200px; padding-right: 10px"}
+![image](https:// .jpg){: style="float: left; width: 200px; padding-right: 10px"}
 
-Andrea is a research scientist at the National Centre for Atmospheric Science and Department of Meteorology at the University of Reading. Her research focuses on understanding various aspects of historical and future climate variability and change. She is particularly interested in understanding how different forcing agents such as greenhouse gases and anthropogenic aerosols interact with internal variability, to shape the climate we experience across the globe.
