@@ -13,5 +13,5 @@ time: 9am MDT, 11am EDT, 4pm BST, 5pm CEST
 
 *If you encounter problems with the registration form, try a different browser or [use this direct link to the form](https://forms.gle/iMp7jH7Rnre5tpXf7).*
 
-![image](https:// .jpg){: style="float: left; width: 200px; padding-right: 10px"}
+![image](https://large-ensemble.github.io/Nicola_headshot2.jpg){: style="float: left; width: 200px; padding-right: 10px"}
 
