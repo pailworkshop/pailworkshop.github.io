@@ -8,6 +8,19 @@ permalink: /webinars/archive/
 
 This page contains a list of all previous webinar presentations and, if available, a recording of the webinar.
 
+## September 13th 2020: [Dr. Andrea Dittus](https://research.reading.ac.uk/meteorology/people/andrea-dittus/) (University of Reading)
+
+Role of aerosol forcing for recent Pacific decadal variability and other applications of large climate model ensembles
+
+<video width="600" poster="https://large-ensemble.github.io/webinars/intro_image_webinar11.png" controls>
+  <source src="https://swift.dkrz.de/v1/dkrz_caba26f2-8188-44a7-a55f-e59d33d34c7d/SMILE_webinar/SMILE_webinar11_Dittus.mp4" type="video/mp4">
+  Your browser does not support HTML video.
+</video>
+
+
+
+---
+
 ## May 17th 2021: [EGU Special part 2]
 - **[Timo Kelder](https://timokelder.netlify.app/): Seasonal predictions as a high-resolution large ensemble to study extreme events over recent decades**
 - **[Richard Arsenault](): Calibration of a reinforcement learning method with the ClimEx large ensemble and a weather generator for water management**
