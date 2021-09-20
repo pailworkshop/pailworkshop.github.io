@@ -7,6 +7,8 @@ time: 9am MDT, 11am EDT, 4pm BST, 5pm CEST
 
 **The role of model-to-model differences and internal variability in causing uncertainty in climate projections**
 
+Nicola is currently a CIRES Visiting Postdoctoral Fellows at the University of Colorado, Boulder working primarily on variability in the Pacific Ocean and it's global impacts in both the recent past and future projections. 
+
 <div style="text-align:center;">
 <a class="btn btn-success" href="https://large-ensemble.github.io/webinars/registration12">Register here</a>
 </div>
