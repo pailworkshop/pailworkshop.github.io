@@ -14,12 +14,12 @@ author: SMILE community
 navbar-links:
   Home: "index"
   Call for papers: "webinars"
-  Important dates: "Dates"
   Keynote talks: "keynotes"
-  Committee: "conferences_workshops"
+  Committees: "conferences_workshops"
   Resources:
     - Treebanks: "list-treebanks"
   Contact us: "contact"
+  ICON2021: "http://icon2021.nits.ac.in"
 
 
 ##navbar-links:
