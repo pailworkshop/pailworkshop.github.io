@@ -12,8 +12,8 @@ author: PAILWorkshop
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "index.html"
-  Call for papers: "cfp.html"
+  Home: "index"
+  Call for papers: "cfp"
   #Keynote: "keynotes"
   Committees: "committee"
   Resources:
@@ -36,7 +36,7 @@ round-avatar: true
 
 
 # --- Footer options --- #
-footer-extra: footer_contact_link.html
+# footer-extra: footer_contact_link.html
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
