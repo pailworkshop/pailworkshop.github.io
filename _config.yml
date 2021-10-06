@@ -12,18 +12,29 @@ author: SMILE community
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: 
-    - SMILE: "index"
-    - Who we are: "who_we_are"
-  Webinars: 
-    - Next webinars: "webinars"
-    - Archive: "/webinars/archive/"
-    - Suggest a speaker: "webinar_suggest_speaker"
-  Conferences / Workshops: "conferences_workshops"
-  Mailing list: "mailinglist"
+  Home: "index"
+  Call for papers: "webinars"
+  Important dates: "Dates"
+  Keynote talks: "keynotes"
+  Committee: "conferences_workshops"
   Resources:
-    - MMLEA: "http://www.cesm.ucar.edu/projects/community-projects/MMLEA/"
+    - Treebanks: "list-treebanks"
   Contact us: "contact"
+
+
+##navbar-links:
+##  About: 
+##    - SMILE: "index"
+##    - Who we are: "who_we_are"
+##  Webinars: 
+##    - Next webinars: "webinars"
+##    - Archive: "/webinars/archive/"
+##    - Suggest a speaker: "webinar_suggest_speaker"
+##  Conferences / Workshops: "conferences_workshops"
+##  Mailing list: "mailinglist"
+##  Resources:
+##    - MMLEA: "http://www.cesm.ucar.edu/projects/community-projects/MMLEA/"
+##  Contact us: "contact"
 
 # --- Logo --- #
 
