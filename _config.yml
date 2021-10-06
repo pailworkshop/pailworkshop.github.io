@@ -21,21 +21,6 @@ navbar-links:
   #Contact us: "contact"
   ICON2021: "http://icon2021.nits.ac.in"
 
-
-##navbar-links:
-##  About: 
-##    - SMILE: "index"
-##    - Who we are: "who_we_are"
-##  Webinars: 
-##    - Next webinars: "webinars"
-##    - Archive: "/webinars/archive/"
-##    - Suggest a speaker: "webinar_suggest_speaker"
-##  Conferences / Workshops: "conferences_workshops"
-##  Mailing list: "mailinglist"
-##  Resources:
-##    - MMLEA: "http://www.cesm.ucar.edu/projects/community-projects/MMLEA/"
-##  Contact us: "contact"
-
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -51,13 +36,13 @@ round-avatar: true
 
 
 # --- Footer options --- #
-## footer-extra: footer_contact_link.html
+footer-extra: footer_contact_link.html
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "pail.contactus@gmail.com"
+#  email: "someone@example.com"
 #   facebook: deanattali
 #   github: daattali
 #   twitter: daattali
@@ -87,7 +72,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
- url-pretty: "pailworkshop.github.io"
+# url-pretty: "MyWebsite.com"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: false
@@ -209,6 +194,25 @@ defaults:
     values:
       layout: "page"
       show-avatar: true
+
+# Exclude these files from production site
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - screenshot.png
+  - docs/
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Beautiful Jekyll / Dean Attali
+# 2fc73a3a967e97599c9763d05e564189
+
 
 # Exclude these files from production site
 exclude:
