@@ -18,7 +18,7 @@ navbar-links:
   Committees: "committee"
   Resources:
     - Treebanks: "treebanks"
-  Contact us: "contact"
+  #Contact us: "contact"
   ICON2021: "http://icon2021.nits.ac.in"
 
 
@@ -51,7 +51,7 @@ round-avatar: true
 
 
 # --- Footer options --- #
-footer-extra: footer_contact_link.html
+## footer-extra: footer_contact_link.html
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
