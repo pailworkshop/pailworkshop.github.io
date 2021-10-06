@@ -12,8 +12,8 @@ author: PAIL Workshop
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "index"
-  Call for papers: "cfp"
+  Home: "index.html"
+  Call for papers: "cfp.html"
   #Keynote: "keynotes"
   Committees: "committee"
   Resources:
