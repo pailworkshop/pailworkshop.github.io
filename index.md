@@ -1,8 +1,9 @@
 ---
 layout: page
 title: PAIL-2021
-# subtitle: Workshop on Parsing and its Applications for Indian Languages
 ---
+
+#subtitle: Workshop on Parsing and its Applications for Indian Languages
 
 # Workshop on Parsing and its Applications for Indian Languages
 
