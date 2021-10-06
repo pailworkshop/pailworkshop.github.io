@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: Workshop on Parsing and its Applications for Indian Languages (PAIL)
+title: PAIL-2021
 
 # Short description of your site
 description: Workshop on Parsing and its Applications for Indian Languages (PAIL)
@@ -13,11 +13,11 @@ author: PAIL2021
 
 navbar-links:
   Home: "index"
-  Call for papers: "webinars"
-  Keynote talks: "keynotes"
-  Committees: "conferences_workshops"
+  Call for papers: "cfp"
+  #Keynote: "keynotes"
+  Committees: "committee"
   Resources:
-    - Treebanks: "list-treebanks"
+    - Treebanks: "treebanks"
   Contact us: "contact"
   ICON2021: "http://icon2021.nits.ac.in"
 
