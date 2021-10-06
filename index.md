@@ -1,9 +1,10 @@
 ---
 layout: page
 title: PAIL-2021
-subtitle: Workshop on Parsing and its Applications for Indian languages
+# subtitle: Workshop on Parsing and its Applications for Indian Languages
 ---
 
+# Workshop on Parsing and its Applications for Indian Languages
 
 ### Introduction
 Annotated corpora are vital resources for deep learning application development and linguistic analyses. In the case of Indian languages, sufficient annotated quality data are not available publicly for researchers and developers to build upon. Although there are different levels of annotations, syntactically annotated corpora or treebank are very resourceful especially for Indian languages, which are morphosyntactically rich. They are incorporated in downstream applications for various information extraction.
